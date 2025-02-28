@@ -49,5 +49,4 @@ Happy coding! 🚀✨
 ✅ **Comprehensive & well-structured**  
 ✅ **Step-by-step installation**  
 ✅ **Project structure with explanations**  
-✅ **Code snippets to explain how files work**  
 ✅ **Clear usage instructions**  
