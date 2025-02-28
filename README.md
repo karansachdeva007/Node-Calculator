@@ -33,7 +33,21 @@ sh
 node func1.js
 
 🖥️ Usage Guide
-1️⃣ Open the calculator in your web browser.
-2️⃣ Enter two numbers.
-3️⃣ Select an operation (+, -, ×, ÷).
-4️⃣ Click "Calculate" and see the result instantly!
+- 1️⃣ Open the calculator in your web browser.
+- 2️⃣ Enter two numbers.
+- 3️⃣ Select an operation (+, -, ×, ÷).
+- 4️⃣ Click "Calculate" and see the result instantly!
+
+🎯 Need Help?
+If you have any questions, feel free to create an issue or submit a pull request on GitHub.
+
+Happy coding! 🚀✨
+
+---
+
+## **📝 Key Highlights in this README**
+✅ **Comprehensive & well-structured**  
+✅ **Step-by-step installation**  
+✅ **Project structure with explanations**  
+✅ **Code snippets to explain how files work**  
+✅ **Clear usage instructions**  
